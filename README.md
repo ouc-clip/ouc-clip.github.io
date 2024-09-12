@@ -1,4 +1,4 @@
-# Cyber Security Laboratory Website
+## Cyber Security Laboratory Website
 
 这是重庆大学网络安全实验室的主页源代码仓库。该网站采用[Hugo](https://gohugo.io/)框架构建，并在[GitHub Pages](https://pages.github.com/)部署，网站整体框架从[LoveIt](https://github.com/dillonzq/LoveIt)模板修改而来。
 
